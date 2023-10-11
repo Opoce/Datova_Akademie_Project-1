@@ -1,4 +1,6 @@
 # Datova_Akademie_Project-1
+Zpracovala Daniela Černá, cernada@centrum.cz, discord: daniela_dlce
+
 datové podklady, ve kterých je možné vidět porovnání dostupnosti potravin na základě průměrných příjmů za určité časové období v České republice
 
 postup zpracování: nejprve jsem vytvořila skripty pro jednotlivé dotazy ze zadání (1-5), kde jsem využila původní datové sady. Tak jsem si zmapovala, jaká data bude potřeba vložit do nových tabulek. Poté jsem vytvořila tabulky t_daniela_cerna_sql_project_primary_final a t_daniela_cerna_sql_project_secondary_final. S jejich využitím jsem pak aktualizovala původní dotazy a vytvořila jejich finální verzi (vždy označené jako *_fin). Vznikly tak dvě sady odpovědí s využitím různých zdrojů. Do tohoto úložiště jsem původně nahrála všechny scripty, nakonec zde ale nechávám jen ty finální, aby to bylo přehlednější. 
